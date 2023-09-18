@@ -1,1 +1,1 @@
-# Date-changer
+Game mechanics will not be affected at all
